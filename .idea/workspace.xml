@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2db4e9-83c5-454d-a8be-0dbbfbad994d" name="Default Changelist" comment="" />
+    <list default="true" id="cb2db4e9-83c5-454d-a8be-0dbbfbad994d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-merge-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/info/exclude" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +69,7 @@
       <workItem from="1618166209763" duration="6828000" />
       <workItem from="1618216715734" duration="743000" />
       <workItem from="1618220177533" duration="930000" />
-      <workItem from="1618256214920" duration="516000" />
+      <workItem from="1618256214920" duration="1076000" />
     </task>
     <servers />
   </component>
