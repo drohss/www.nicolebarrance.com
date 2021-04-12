@@ -10,7 +10,7 @@
 
 <script>
     import VueP5 from 'vue-p5';
-    import p5 from 'p5';
+    import p5 from 'p5/lib/p5.min.js';
     import logo from '../assets/logo_image.svg'
 
 
@@ -49,7 +49,7 @@
             },
             preload(sketch) {
                 this.position = sketch.createVector(0,0);
-                this.velocity = new p5.Vector.fromAngle(45);
+                this.velocity = p5.Vector.fromAngle(45);
                 this.velocity.mult(5);
                 this.image = sketch.loadImage(logo);
                 sketch.frameRate(50);
