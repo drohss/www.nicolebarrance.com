@@ -1,0 +1,15 @@
+<svg width="401" height="396" viewBox="0 0 401 396" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        path {
+            fill: #111;
+        }
+        @media (prefers-color-scheme: dark) {
+            path {
+                fill: #fff;
+            }
+        }
+    </style>
+<path d="M219 178H289V251H219V178Z" fill="black"/>
+<path d="M183 215H147V251H183V215Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M325 0H76V36H41V72H0V323H35V396H327V363H366V323H401V72H360V36H325V0ZM283 36H118V69H82V107H41V178H111V251H41V284H76V360H106V284H147V360H183V284H224V360H254V284H325V251H360V107H319V72H283V36Z" fill="black"/>
+</svg>

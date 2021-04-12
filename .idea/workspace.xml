@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb2db4e9-83c5-454d-a8be-0dbbfbad994d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nicoles-site" />
+  </component>
+  <component name="ProjectId" id="1qymuciKKy34nvcVDeMWXONmibM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb2db4e9-83c5-454d-a8be-0dbbfbad994d" name="Default Changelist" comment="" />
+      <created>1618060427123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618060427123</updated>
+      <workItem from="1618060429541" duration="13295000" />
+      <workItem from="1618166209763" duration="6828000" />
+      <workItem from="1618216715734" duration="743000" />
+      <workItem from="1618220177533" duration="930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1242" y="349" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618072313357">
+      <screen x="-1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="-1242" y="349" key="#com.intellij.fileTypes.FileTypeChooser/-1920.25.1920.1055/0.25.1680.935@-1920.25.1920.1055" timestamp="1618072313357" />
+    <state x="473" y="106" width="733" height="774" key="find.popup" timestamp="1618170418472">
+      <screen x="0" y="25" width="1680" height="935" />
+    </state>
+    <state x="-1380" y="116" width="837" height="873" key="find.popup/-1920.25.1920.1055/0.25.1680.935@-1920.25.1920.1055" timestamp="1618075230252" />
+    <state x="473" y="106" width="733" height="774" key="find.popup/0.25.1680.935@0.25.1680.935" timestamp="1618170418472" />
+    <state x="546" y="232" width="670" height="600" key="search.everywhere.popup" timestamp="1618171714985">
+      <screen x="0" y="25" width="1680" height="935" />
+    </state>
+    <state x="-1296" y="259" width="670" height="676" key="search.everywhere.popup/-1920.25.1920.1055/0.25.1680.935@-1920.25.1920.1055" timestamp="1618074694705" />
+    <state x="546" y="232" width="670" height="600" key="search.everywhere.popup/0.25.1680.935@0.25.1680.935" timestamp="1618171714985" />
+  </component>
+</project>
