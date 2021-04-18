@@ -1,3 +1,1 @@
-# nicoles-site
-
-www.nicolebarrance.com
+## www.nicolebarrance.com
